@@ -1,0 +1,7 @@
+Address: 0xEF1984eED32560364b2a3e5Cd428811CcE833C82
+
+
+Hash: QmWkNwhR846sBKUHsJnvmsT9RSyfAAJMTGseCPdBQoP58N
+
+
+Metadata - JSON : https://gateway.pinata.cloud/ipfs/QmWkNwhR846sBKUHsJnvmsT9RSyfAAJMTGseCPdBQoP58N
