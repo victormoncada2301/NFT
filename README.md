@@ -14,7 +14,7 @@ Todo esto quedara en la carpeta llamada "Node_Modules" y de esta manera todas la
 
 5) Realizar la carga de la imagen y la estructura de datos de Open Sea en formato (JSON) en Pinata
 
-6) Conectar el contrato inteligente con el IFPS creado en Pinata0
+6) Cargar los parametros en Remix en la funcion (awardItem) con el CIF del archivo JSON y la imagen que sera usada para el NFT cargada en Pinata
 
 7) Hacer el deploy en Remix y aceptar la transaccion en Metamask 
 
